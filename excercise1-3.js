@@ -9,4 +9,4 @@ for (var i = 0; i <=10; i++)
 
 const paragraph = "hello world!";
 const replacer = "ell"
-console.log(paragraph.replace(replacer,""))
+console.log(paragraph.replace(replacer,""));
